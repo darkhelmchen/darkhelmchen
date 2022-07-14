@@ -1,2 +1,0 @@
-- Gedanken um Gedanken Willen zu schreiben ist gedankenlos
--  

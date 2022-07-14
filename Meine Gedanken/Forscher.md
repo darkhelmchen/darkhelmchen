@@ -1,2 +1,0 @@
-- Das [[Forschungssystem ]] beutet Forscher aus
-- Damit diese ihrer Leidenschaft, dem Forschen nachgehen müssen 

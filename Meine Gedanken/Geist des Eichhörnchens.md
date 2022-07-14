@@ -1,4 +1,0 @@
-- Es geht um den Sinn der Tätigkeit 
-- Prinzip [[Von ich zu Du]]  
-- Die Austauschbarkeit der Person ist in dieser Betrachtung zweitrangig, da sie nur den Zweck der Rolle verwirklicht 
-- 

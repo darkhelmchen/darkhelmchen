@@ -1,2 +1,0 @@
-# Softwarelebenszyklus
-#definition #offen 

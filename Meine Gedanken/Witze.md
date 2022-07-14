@@ -1,4 +1,0 @@
-- Sprachnachricht an Christopher 
-	- MCs Poll Coupons naDa nix 
-	- Vermutlich der einzige in Deutschland 
-	- Die glauben, 

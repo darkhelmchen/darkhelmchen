@@ -1,2 +1,0 @@
-# Vorgehensmodell
-#definition #offen 
