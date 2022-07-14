@@ -1,0 +1,7 @@
+- Hat mir ein tolles Buch in die Hand
+- Hobby Trainer von Schiedsrichtern wirkt gut auf dem Lebenslauf. 
+	- Teamfähig 
+	- Führungsstärken 
+	- Nicht gefährlich  --> Keine Ausfallrisiko 
+	- Kostet nicht viel Zeit 
+- 

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "49dae2557094a4af",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b08ace8401eceb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-07-04.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7af20219b38c1703",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d620a7e67a175903",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "05a5c5ea04f680c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "15f8ebc069016008",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f67f3d5f3bbc396e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1dd5d0aba31e5e1d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "247c0599ac45be8c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "77b21084cdd7f48b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2022-07-04.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e32d1f0db27c7be3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2022-07-04.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d57c5193a36789b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2022-07-04.md"
+          }
+        }
+      },
+      {
+        "id": "450cbf455da5af2c",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9b08ace8401eceb2",
+  "lastOpenFiles": [
+    "2022-07-04.md",
+    "202207042340.md",
+    "Aristoteles.md",
+    "Einführung in die Softwaretechnik/11 Implementierung von Softwaresystemen.md",
+    "Messung Leistung.md",
+    "Einführung in die Softwaretechnik/11.1 Implementierung von Software.md",
+    "Art der Notizen.md",
+    "Dima Roast.md",
+    "Implementierung.md",
+    "Einführung in die Softwaretechnik/Einführung in die Softwaretechnik.md"
+  ]
+}

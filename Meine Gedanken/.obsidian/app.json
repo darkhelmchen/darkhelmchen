@@ -1,0 +1,33 @@
+{
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "de",
+    "de-DE"
+  ],
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:toggle-highlight",
+    "note-composer:extract-heading",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:fold-all"
+  ],
+  "promptDelete": false
+}

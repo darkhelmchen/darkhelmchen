@@ -1,0 +1,2 @@
+- [[Geist des Eichhörnchens]] mit [[Kohlbergs Moraltheorie]] verbinden 
+- Joachim Bauer 2007: Vier Kulturübergreifende soziale Grundbedürfnisse 

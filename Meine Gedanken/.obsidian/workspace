@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "49dae2557094a4af",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b08ace8401eceb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unbenannt.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e67adf9523e510a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef115ee1ba96f0ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e14a1c5d6c4519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4c1ca4436455307",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e5582202b1ccb2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8278b64b2283fa36",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcee0d3392086ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac357b85a24a829",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "de881bdecd25e496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unbenannt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61432c820e09fbaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unbenannt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86ea0c1d7476bffe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67fb31f5b5dd1702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unbenannt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9b08ace8401eceb2",
+  "lastOpenFiles": [
+    "Unbenannt.md",
+    "Demokratie.md",
+    "Ausgaben Kontrolle.md",
+    "Einführung in die Softwaretechnik/11 Implementierung von Softwaresystemen.md",
+    "Art der Notizen.md",
+    "Wünsche/Meine Zukunft.md",
+    "Hausarbeit.md",
+    "Haarschnitt.md",
+    "2022-07-05.md",
+    "2022-07-04.md"
+  ]
+}
